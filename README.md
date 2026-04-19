@@ -1,3 +1,100 @@
+# 🛒 Laravel E-commerce Store
+
+A complete E-commerce web application built using Laravel. This project includes user authentication, product management, order system, admin dashboard, and contact form.
+
+---
+
+## 🚀 Features
+
+* User Authentication (Login / Signup / Logout)
+* Homepage with Slider
+* Products Listing Page
+* Single Product View Page
+* Checkout Page
+* Contact Form (only for logged-in users)
+* Admin Dashboard
+* Order Management System
+* Order Status Update (Dynamic)
+* Customer Records
+* Admin Reply to Contact Messages
+* Yajra DataTables Integration
+
+---
+
+## 🗂️ Project Pages
+
+* Front Page (Home)
+* Products Page
+* Single Product Page
+* Checkout Page
+* Contact Page
+
+---
+
+## 🛠️ Admin Panel Features
+
+* View All Users
+* View All Products
+* View Orders & Order Items
+* Change Order Status
+* View Contact Messages
+* Reply to Users
+
+---
+
+## 🗄️ Database Tables
+
+* Users
+* Products
+* Orders
+* Order_Items
+* Contacts
+* Admins
+
+---
+
+## ⚙️ Technologies Used
+
+* Laravel
+* PHP
+* MySQL
+* Bootstrap
+* Yajra DataTables
+* JavaScript
+
+---
+
+## ▶️ Installation Steps
+
+1. Clone repository
+2. Run:
+
+   * composer install
+   * npm install
+3. Setup `.env` file
+4. Run migrations:
+
+   * php artisan migrate
+5. Start server:
+
+   * php artisan serve
+
+---
+
+## 🌐 Project Demo
+
+Website Link: http://127.0.0.1:8000 (Run locally using php artisan serve) Not deployed
+
+Video Demo: (https://www.dropbox.com/scl/fi/pt0ldmxiwjya4au1yv9nu/Laravel-Google-Chrome-2026-04-19-16-02-06.mp4?rlkey=s7800wm2wbqrz3ue3cckejelw&st=izf3le1l&dl=0)
+
+---
+
+## 👩‍💻 Author
+
+Amna Murtaza
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
